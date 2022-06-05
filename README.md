@@ -8,4 +8,4 @@
  **-RxJava** <br/>
  **-ViewBinding** <br/>
   
- !![ScreenShot](https://github.com/AdemMuslugil/NewsAPPKotlin/blob/main/NewsAppKotlin/Ekran%20Al%C4%B1nt%C4%B1s%C4%B1.PNG)
+ ![ScreenShot](https://github.com/AdemMuslugil/NewsAPPKotlin/blob/main/NewsAppKotlin/Ekran%20Al%C4%B1nt%C4%B1s%C4%B1.PNG)

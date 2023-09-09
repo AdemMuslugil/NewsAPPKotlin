@@ -10,7 +10,7 @@ import retrofit2.http.GET
 import retrofit2.http.Query
 
 interface NewsAPI {
-    @GET("top-headlines?country=us&apiKey=")
+    @GET("top-headlines?country=us")
     fun getNews(@Query("apiKey") apiKey: String = API_KEY) : Single<NewsResponse>
 
 }
